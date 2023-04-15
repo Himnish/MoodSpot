@@ -1,7 +1,7 @@
 ## MoodSpot
 
 ### Introduction
-MoodSpot is a tool that generates custom playlists for users based on their current mood. Users can take an image of themselves, and our app will find the mood of the user based on the selfie and provide a Spotify playlist with the best songs that match the mood.
+MoodSpot is a tool that generates custom playlists for users based on their current mood. Users can take an image of themselves, and our app will find the mood of the user based on the selfie and provide a Spotify playlist with the best songs that match their mood.
 
 ### Roles
 Himnish: 
